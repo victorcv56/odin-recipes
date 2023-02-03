@@ -1,7 +1,19 @@
-.descTitle {
-    color: red;
+
+h1, 
+h2,
+h3 {
+    background-color: aqua;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
 }
 
-.header {
-    font-size: 200;
+* {
+    background-color: chocolate;
+}
+
+img.picture {
+    float: right;
+    margin-right: 25px;
+    width: 200px;
+    height: 100px;
 }

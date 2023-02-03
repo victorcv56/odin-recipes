@@ -1,0 +1,22 @@
+* {
+    background-color: black;
+}
+h1 {
+    background-color: #665544;
+}
+
+.header {
+    border: 3px solid #665544;
+    color: white;
+    font-size: 55px;
+    text-align: center;
+}
+
+.link {
+    background-color:blueviolet;
+    font-family:sans-serif;
+    color: aliceblue;
+    font-size: 21px;
+    font-weight:bolder;
+}
+
