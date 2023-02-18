@@ -1,22 +1,27 @@
 * {
     background-color: black;
 }
-h1 {
-    background-color: #665544;
-}
 
-.header {
+ .header {
     border: 3px solid #665544;
+    padding: 30px;
     color: white;
     font-size: 55px;
     text-align: center;
+} 
+
+.almond {
+    padding: 20px;
+    font-size: 28px;
+    background-color: red;
+    border: 5px solid white;
+    text-align: center;
+    margin: 20px;
 }
 
-.link {
-    background-color:blueviolet;
-    font-family:sans-serif;
-    color: aliceblue;
-    font-size: 21px;
-    font-weight:bolder;
+.potato {
+    margin: 40px;
+    font-size: 30px;
+    background-color: gray;
+    border: 5px solid rgb(115, 65, 195);
 }
-
